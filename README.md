@@ -14,9 +14,6 @@ Repositorio con un archivo **index.html**
 
 # Capturas de pantalla
 
-1. Repositorio creado 
-![alt text](image.png)
-
 2. Contenido del README.md
 ![alt text](image-1.png)
 
@@ -33,3 +30,4 @@ Repositorio con un archivo **index.html**
 ![alt text](image-5.png)
 
 7. Repositorio en GitHub
+![alt text](image.png)
